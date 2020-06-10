@@ -11,11 +11,11 @@ layout: default
 
 ### A Search Engine for Hacker's Knowledge Base
 
-**Stage1: launch on 7/15**
+[Stage1: launch on 7/15]
 
 - Upload your knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list
-- Search network-driven knowledge without noise and spam
+- **Search network-driven knowledge without noise and spam**
 
 
 Desktop Demo:
@@ -30,7 +30,7 @@ Desktop Demo:
 
 ### A Git-powered Knowledge Base Network
 
-**Stage2: launch on 8/15**
+[Stage2: launch on 8/15]
 
 To solve the scattered knowledge graph problem in the current web, we need the good knolwedge input system (the search engine) and a well-structured network (interactions).
 
@@ -57,7 +57,7 @@ The core interaction on TARS is to **iterate Knowledge branching with other hack
 
 ### The Operating System for Human Knowldege
 
-**Vision In 5 Years:**
+Vision In 5 Years:
 
 We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
 
