@@ -24,7 +24,7 @@ Desktop Demo:
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
 
-[Join Beta for macOS/Win/Ubuntu](https://www.producthunt.com/upcoming/tars)
+**[Join Beta for macOS/Win/Ubuntu](https://www.producthunt.com/upcoming/tars)**
 
 ---
 
