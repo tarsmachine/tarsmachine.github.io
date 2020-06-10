@@ -14,6 +14,7 @@ layout: default
 **Stage1: launch on 7/15**
 
 - Upload your knowledge base (blogs, personal wiki...) to join the network
+- Browse knowledge base list
 - Search network-driven knowledge without noise and spam
 
 
@@ -38,10 +39,10 @@ To solve the scattered knowledge graph problem in the current web, we need the g
 
 I believe:
 
-- Knowledge should be well-craft and organized
-- The key to having a valuable knowledge ecosystem is **the interaction with a knowledge system that provides value**, so more knowledgable people will join..
+- Knowledge should be structured and organized
+- The key to having a valuable knowledge ecosystem is **the interaction with a knowledge system that provides value**, so more knowledgable people will join.
 
-So, the core interaction on TARS is to **iterate Knowledge branching with other hackers**:
+The core interaction on TARS is to **iterate Knowledge branching with other hackers**:
 
 <img src="images/folgezettel.png" alt="sample image">
 
