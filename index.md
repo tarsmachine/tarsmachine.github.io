@@ -5,16 +5,11 @@ layout: default
 <img src="images/icon.png" alt="sample image" width="200" height="200">
 
 
-### TARS: A Search Engine for Hacker's Knowledge Base
+### TARS
 
-**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
+## The Search Engine
 
---- 
-
-[(Landing Page)](https://tarsbase.github.io/cause/)
-
-
-[Stage1: launch on 7/15]
+Stage1: A Search Engine for Hacker's Knowledge Base  [launch on 7/15]
 
 - Upload your knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list
@@ -29,9 +24,9 @@ Desktop Demo:
 
 ---
 
-### A Git-powered Knowledge Base Network
+### The Network
 
-[Stage2: launch on 8/15]
+Stage2: A Git-powered Knowledge Base Network  [launch on 8/15]
 
 To solve the scattered knowledge graph problem in the current web, we need the good knolwedge input system (the search engine) and a well-structured network (interactions).
 
@@ -54,11 +49,14 @@ The core interaction on TARS is to **iterate Knowledge branching with other hack
 - Other users can choose to **Pull** the update to their branch
 - **Merge** different knowledge base
 
+**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
+
+**[Landing Page](https://tarsbase.github.io/cause/)**
 ---
 
-### The Operating System for Human Knowldege
+### The Vision
 
-Vision In 5 Years:
+**The Operating System for Human Knowldege**
 
 We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
 
