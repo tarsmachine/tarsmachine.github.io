@@ -18,8 +18,6 @@ To solve the scattered knowledge graph problem in the current web, we need:
 
 **[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
 
-**[Go Landing Page](https://tarsbase.github.io/cause/)**
-
 
 ### Search Engine
 
@@ -37,6 +35,8 @@ Desktop Demo:
 
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
+
+**[Go Landing Page](https://tarsbase.github.io/cause/)**
 
 
 ---
