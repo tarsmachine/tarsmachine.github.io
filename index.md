@@ -24,10 +24,6 @@ Desktop Demo:
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
 
-**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private beta. Here is my knowledge base:)**
-
-**[New Landing in Process](https://tarsbase.github.io/cause/)**
-
 ---
 
 ### A Git-powered Knowledge Base Network
@@ -62,6 +58,11 @@ The core interaction on TARS is to **iterate Knowledge branching with other hack
 Vision In 5 Years:
 
 We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
+
+
+**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private beta. Here is my knowledge base:)**
+
+**[New Landing in Process](https://tarsbase.github.io/cause/)**
 
 ---
 
