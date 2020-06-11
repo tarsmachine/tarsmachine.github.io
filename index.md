@@ -5,13 +5,14 @@ layout: default
 <img src="images/icon.png" alt="sample image" width="200" height="200">
 
 
-### TARS
+### TARS: A Search Engine for Hacker's Knowledge Base
 
 **[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
 
----
+--- 
 
-### A Search Engine for Hacker's Knowledge Base
+[(Landing Page)](https://tarsbase.github.io/cause/)
+
 
 [Stage1: launch on 7/15]
 
@@ -25,7 +26,6 @@ Desktop Demo:
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
-[(Landing Page)](https://tarsbase.github.io/cause/)
 
 ---
 
