@@ -14,7 +14,7 @@ layout: default
 To solve the scattered knowledge graph problem in the current web, we need:
 
 - The good knolwedge input & output system (the search engine)
-- A well-structured network (interactions)
+- A well-structured knowledge network (interactions)
 
 **[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
 
