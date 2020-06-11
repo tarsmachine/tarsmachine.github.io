@@ -7,9 +7,15 @@ layout: default
 
 ### TARS
 
-## The Search Engine
+## The Operating System for Human Knowldege
 
-Stage1: A Search Engine for Hacker's Knowledge Base  [launch on 7/15]
+### The Search Engine
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage1: A Search Engine for Hacker's Knowledge Base  [launch on 7/15]
+</li>
+</ul>
+
 
 - Upload your knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list
