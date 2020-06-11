@@ -20,15 +20,14 @@ To solve the scattered knowledge graph problem in the current web, we need:
 
 ### The Search Engine
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage1: A Search Engine for Hacker's Knowledge Base</i>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 7/15</li>
-</ul>
+**Stage1: A Search Engine for Hacker's Knowledge Base**
+
+**Launch: 7/15**
 
 
 - Upload your knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list
-- **Search network-driven knowledge without noise and spam**
+- Search network-driven knowledge without noise and spam
 
 
 Desktop Demo:
@@ -41,18 +40,17 @@ Desktop Demo:
 
 ### The Network
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage2: A Git-powered Knowledge Base Network</i>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 8/15</li>
-</ul>
+**Stage2: A Git-powered Knowledge Base Network**
+
+**Launch: 8/15**
 
 
 I believe:
 
 - Knowledge should be structured and organized
-- The key to having a valuable knowledge ecosystem is **the interaction with a knowledge system that provides value**, so more knowledgable people will join.
+- The key to having a valuable knowledge ecosystem is the interaction with a knowledge system that provides value, so more knowledgable people will join.
 
-The core interaction on TARS is to **iterate Knowledge branching with other hackers**:
+The core interaction on TARS is to iterate Knowledge branching with other hackers:
 
 <img src="images/folgezettel.png" alt="sample image">
 
@@ -66,16 +64,14 @@ The core interaction on TARS is to **iterate Knowledge branching with other hack
 **[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
 
 **[Landing Page](https://tarsbase.github.io/cause/)**
+
 ---
 
 ### The Vision
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage3: The Operating System for Human Knowldege</i>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: in 5 Years</li>
-</ul>
+**Stage3: The Operating System for Human Knowldege**
 
-****
+**Launch: in 5 Years**
 
 We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
 
