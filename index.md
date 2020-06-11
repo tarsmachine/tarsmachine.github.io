@@ -7,12 +7,18 @@ layout: default
 
 ### TARS
 
+To solve the scattered knowledge graph problem in the current web, we need the good knolwedge input system (the search engine) and a well-structured network (interactions).
+
+<img src="images/infovknowledge.png" alt="sample image">
+
+
 ## The Operating System for Human Knowldege
 
 ### The Search Engine
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage1: A Search Engine for Hacker's Knowledge Base  [launch on 7/15]
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage1: A Search Engine for Hacker's Knowledge Base
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 7/15
 </li>
 </ul>
 
@@ -32,11 +38,11 @@ Desktop Demo:
 
 ### The Network
 
-Stage2: A Git-powered Knowledge Base Network  [launch on 8/15]
-
-To solve the scattered knowledge graph problem in the current web, we need the good knolwedge input system (the search engine) and a well-structured network (interactions).
-
-<img src="images/infovknowledge.png" alt="sample image">
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage2: A Git-powered Knowledge Base Network
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 8/15
+</li>
+</ul>
 
 
 I believe:
@@ -62,7 +68,13 @@ The core interaction on TARS is to **iterate Knowledge branching with other hack
 
 ### The Vision
 
-**The Operating System for Human Knowldege**
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage3: The Operating System for Human Knowldege
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: in 5 Years
+</li>
+</ul>
+
+****
 
 We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
 
