@@ -11,9 +11,9 @@ layout: default
 
 <img src="images/infovknowledge.png" alt="sample image">
 
-To solve the scattered knowledge graph problem in the current web, we need:
+To solve the scattered knowledge graph problem in the current web, I'm building:
 
-- The good knolwedge input & output system (the search engine)
+- A good knolwedge input & output system (the search engine)
 - A well-structured knowledge network (interactions)
 
 ### Search Engine
@@ -24,7 +24,7 @@ To solve the scattered knowledge graph problem in the current web, we need:
 
 
 - Upload your knowledge base (blogs, personal wiki...) to join the network
-- Browse knowledge base list
+- Browse knowledge base list to clone
 - Search network-driven knowledge without noise and spam
 
 
