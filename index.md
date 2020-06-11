@@ -7,9 +7,9 @@ layout: default
 
 ### TARS
 
-**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private beta. Here is my knowledge base:)**
+**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
 
-**[New Landing in Process](https://tarsbase.github.io/cause/)**
+[Landing Page](https://tarsbase.github.io/cause/)
 ---
 
 ### A Search Engine for Hacker's Knowledge Base
