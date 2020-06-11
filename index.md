@@ -26,6 +26,8 @@ Desktop Demo:
 
 **[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private beta. Here is my knowledge base:)**
 
+**[New Landing in Process](https://tarsbase.github.io/cause/)**
+
 ---
 
 ### A Git-powered Knowledge Base Network
