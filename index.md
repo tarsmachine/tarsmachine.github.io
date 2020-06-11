@@ -7,12 +7,16 @@ layout: default
 
 ### TARS
 
-To solve the scattered knowledge graph problem in the current web, we need the good knolwedge input system (the search engine) and a well-structured network (interactions).
+## The Operating System for Human Knowldege
 
 <img src="images/infovknowledge.png" alt="sample image">
 
+To solve the scattered knowledge graph problem in the current web, we need:
 
-## The Operating System for Human Knowldege
+- The good knolwedge input & output system (the search engine)
+- A well-structured network (interactions)
+
+
 
 ### The Search Engine
 
