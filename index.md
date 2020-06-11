@@ -18,7 +18,7 @@ To solve the scattered knowledge graph problem in the current web, we need:
 
 
 
-### The Search Engine
+### Search Engine
 
 **Stage1: A Search Engine for Hacker's Knowledge Base**
 
@@ -38,7 +38,7 @@ Desktop Demo:
 
 ---
 
-### The Network
+### Network
 
 **Stage2: A Git-powered Knowledge Base Network**
 
@@ -67,7 +67,7 @@ The core interaction on TARS is to iterate Knowledge branching with other hacker
 
 ---
 
-### The Vision
+### Vision
 
 **Stage3: The Operating System for Human Knowldege**
 
