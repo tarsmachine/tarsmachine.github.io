@@ -16,6 +16,9 @@ To solve the scattered knowledge graph problem in the current web, we need:
 - The good knolwedge input & output system (the search engine)
 - A well-structured network (interactions)
 
+**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
+
+**[Go Landing Page](https://tarsbase.github.io/cause/)**
 
 
 ### Search Engine
@@ -61,9 +64,6 @@ The core interaction on TARS is to iterate Knowledge branching with other hacker
 - Other users can choose to **Pull** the update to their branch
 - **Merge** different knowledge base
 
-**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
-
-**[Landing Page](https://tarsbase.github.io/cause/)**
 
 ---
 
