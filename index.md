@@ -76,7 +76,7 @@ We decentralize our knowledge and intelligence to a network with a customizable 
 
 ### Why Me?
 
-I'm a heavy user of the personal knowledge base. I have been iterating my own [knowledge base](https://github.com/allenleein/knowledge-base) on Github for 2 years. I have 281 stars and 30 forks on my knowledge base. 
+I'm a heavy user of the personal knowledge base. I have been iterating my own [knowledge base](https://github.com/allenleein/knowledge-base) on Github for 2 years.
 
 One of my post from knowledge base got on **front page of Hacker News and got 16K+ page views** in 2 days.
 
