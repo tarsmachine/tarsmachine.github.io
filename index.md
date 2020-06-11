@@ -9,7 +9,6 @@ layout: default
 
 **[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
 
-[Landing Page](https://tarsbase.github.io/cause/)
 ---
 
 ### A Search Engine for Hacker's Knowledge Base
