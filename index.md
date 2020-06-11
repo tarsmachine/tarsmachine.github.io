@@ -17,9 +17,8 @@ To solve the scattered knowledge graph problem in the current web, we need the g
 ### The Search Engine
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage1: A Search Engine for Hacker's Knowledge Base
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 7/15
-</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage1: A Search Engine for Hacker's Knowledge Base</i>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 7/15</li>
 </ul>
 
 
@@ -39,9 +38,8 @@ Desktop Demo:
 ### The Network
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage2: A Git-powered Knowledge Base Network
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 8/15
-</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage2: A Git-powered Knowledge Base Network</i>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: 8/15</li>
 </ul>
 
 
@@ -69,9 +67,8 @@ The core interaction on TARS is to **iterate Knowledge branching with other hack
 ### The Vision
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage3: The Operating System for Human Knowldege
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: in 5 Years
-</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Stage3: The Operating System for Human Knowldege</i>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Launch: in 5 Years</li>
 </ul>
 
 ****
