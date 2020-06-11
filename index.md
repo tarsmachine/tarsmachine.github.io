@@ -16,9 +16,6 @@ To solve the scattered knowledge graph problem in the current web, we need:
 - The good knolwedge input & output system (the search engine)
 - A well-structured knowledge network (interactions)
 
-**[Join Beta for macOS/Win/Ubuntu](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private bete!)**
-
-
 ### Search Engine
 
 **Stage1: A Search Engine for Hacker's Knowledge Base**
@@ -79,7 +76,9 @@ We decentralize our knowledge and intelligence to a network with a customizable 
 
 ### Why Me?
 
-I'm a heavy user of the personal knowledge base. I have been iterating my own [knowledge base](https://github.com/allenleein/knowledge-base) on Github for 2 years. I have 281 stars and 30 forks on my knowledge base. One of my post from knowledge base got on **front page of Hacker News and got 16K+ page views** in 2 days.
+I'm a heavy user of the personal knowledge base. I have been iterating my own [knowledge base](https://github.com/allenleein/knowledge-base) on Github for 2 years. I have 281 stars and 30 forks on my knowledge base. 
+
+One of my post from knowledge base got on **front page of Hacker News and got 16K+ page views** in 2 days.
 
 ---
 
