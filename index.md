@@ -33,7 +33,7 @@ Desktop Demo:
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
-**[Go Landing Page](https://tarsbase.github.io)**
+**[Go Landing Page](http://app.tarsmachine.com/)**
 
 
 ---
