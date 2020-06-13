@@ -33,7 +33,7 @@ Desktop Demo:
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
-**[Join Private Bete for Win/OSX/Ubuntu](http://app.tarsmachine.com/)**
+**[Join Private Beta (Win/OSX/Ubuntu)](http://app.tarsmachine.com/)**
 
 
 ---
@@ -74,7 +74,7 @@ We decentralize our knowledge and intelligence to a network with a customizable 
 
 **Master Plan**
 
-1. Build a knowledge-focused search engine
+1. Build a personal-knowledge-focused search engine
 2. Use it to build a network-driven knowledge network
 3. Use the unique data to train the customizable personal AI
 
