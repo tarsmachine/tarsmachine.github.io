@@ -68,9 +68,15 @@ The core interaction on TARS is to iterate Knowledge branching with other hacker
 
 **Stage3: The Operating System for Human Knowldege**
 
-**Launch: in 5 Years**
+**In 5 Years**
 
 We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
+
+**Master Plan**
+
+1. Build a knowledge-focused search engine
+2. Use it to build a network-driven knowledge network
+3. Add customizable personal AI to the network
 
 ---
 
