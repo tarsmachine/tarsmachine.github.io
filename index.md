@@ -48,9 +48,9 @@ Desktop Demo:
 I believe:
 
 - Knowledge should be structured and organized
-- The key to having a valuable knowledge ecosystem is the interaction with a knowledge system that provides value, so more knowledgable people will join.
+- The key to having a valuable knowledge ecosystem is the interaction with a knowledge system that provides value, so more people will contribute the input and output.
 
-The core interaction on TARS is to iterate Knowledge branching with other hackers:
+The core interaction on TARS is to iterate knowledge branching with other hackers:
 
 <img src="images/folgezettel.png" alt="sample image">
 
@@ -68,15 +68,16 @@ The core interaction on TARS is to iterate Knowledge branching with other hacker
 
 **Stage3: The Operating System for Human Knowldege**
 
-**In 5 Years**
+**Vision In 5 Years**
 
-We decentralize our knowledge and intelligence to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
+We decentralize our knowledge to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
 
 **Master Plan**
 
-1. Build a personal-knowledge-focused search engine
-2. Use it to build a network-driven knowledge network
-3. Use the unique data to train the customizable personal AI
+1. Build a search engine for personal knowledge base
+2. Search network-driven knowledge
+3. Iterate knowledge with other knowledge branch owner in the network
+3. Use the unique data to train the customizable personal knowledge AI
 
 ---
 
