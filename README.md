@@ -1,4 +1,4 @@
 
 
-### [Demo and Progress](https://intowormhole.github.io/)
+## [Join Beta (Ubuntu/Win/OSX)](http://app.tarsmachine.com/)
 
