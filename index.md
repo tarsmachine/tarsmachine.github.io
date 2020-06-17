@@ -70,7 +70,7 @@ The core interaction on TARS is to iterate knowledge branching with other hacker
 
 **Vision In 5 Years**
 
-We decentralize our knowledge to a network with a customizable personal knowledge AI, so we can digest and iterate knowledge faster, deeper.
+We decentralize our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
 
 **Master Plan**
 
