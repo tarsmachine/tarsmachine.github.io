@@ -16,6 +16,8 @@ To solve the scattered knowledge graph problem in the current web, I'm building:
 - A good knolwedge input & output system (the search engine)
 - A well-structured knowledge network (interactions)
 
+Goal: Empower humans collaboratively iterate knowledge faster
+
 ### Search Engine
 
 **Stage1: A Search Engine for Hacker's Knowledge Base**
@@ -72,11 +74,11 @@ The core interaction on TARS is to iterate knowledge branching with other hacker
 
 We decentralize our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
 
-**Master Plan**
+### The TARS Master Plan**
 
-1. Build a search engine for personal knowledge base
-2. Search network-driven knowledge
-3. Iterate knowledge with other knowledge branch owner in the network
+1. Build a search engine for network-driven knowledge
+2. The users iterate knowledge with other knowledge branch owner in the network
+3. A better knolwedge input & output system for the machine learning data pipeline
 3. Use the unique data to train the customizable personal knowledge AI
 
 ---
