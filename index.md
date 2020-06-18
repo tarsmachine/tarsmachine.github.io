@@ -74,7 +74,10 @@ The core interaction on TARS is to iterate knowledge branching with other hacker
 
 We decentralize our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
 
-### The TARS Master Plan**
+
+---
+
+### The Master Plan
 
 1. Build a search engine for network-driven knowledge
 2. The users iterate knowledge with other knowledge branch owner in the network
