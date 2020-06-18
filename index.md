@@ -16,9 +16,15 @@ To solve the scattered knowledge graph problem in the current web, I'm building:
 - A good knolwedge input & output system (the search engine)
 - A well-structured knowledge network (interactions)
 
-Goal: Empower humans collaboratively iterate knowledge faster
 
-### Search Engine
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Goal: Empower humans collaboratively iterate knowledge faster</li>
+</ul>
+
+
+---
+
+### Search
 
 **Stage1: A Search Engine for Hacker's Knowledge Base**
 
