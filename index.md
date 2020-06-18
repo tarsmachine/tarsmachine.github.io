@@ -14,7 +14,7 @@ layout: default
 To solve the scattered knowledge graph problem in the current web, I'm building:
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>A good knolwedge input & output system (the search engine)</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>A good knolwedge input & output system (search engine)</li>
   <li><i class="fa-li fa fa-spinner fa-spin"></i>A well-structured knowledge network (interactions)</li>
 </ul>
 
