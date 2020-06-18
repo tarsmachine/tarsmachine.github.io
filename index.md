@@ -18,7 +18,7 @@ To solve the scattered knowledge graph problem in the current web, I'm building:
   <li><i class="fa-li fa fa-spinner fa-spin"></i>A well-structured knowledge network (interactions)</li>
 </ul>
 
-Goal: 
+Mission: 
 
 
 <ul class="fa-ul">
