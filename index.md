@@ -13,14 +13,17 @@ layout: default
 
 To solve the scattered knowledge graph problem in the current web, I'm building:
 
-- A good knolwedge input & output system (the search engine)
-- A well-structured knowledge network (interactions)
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>A good knolwedge input & output system (the search engine)</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>A well-structured knowledge network (interactions)</li>
+</ul>
+
+Goal: 
 
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Goal: Empower humans collaboratively iterate knowledge faster</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>Empower humans collaboratively iterate knowledge faster</li>
 </ul>
-
 
 ---
 
