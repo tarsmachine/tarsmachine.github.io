@@ -59,9 +59,10 @@ Desktop Demo:
 I believe:
 
 - Knowledge should be structured and organized
-- The key to having a valuable knowledge ecosystem is the interaction with a knowledge system that provides value, so more people will contribute the input and output.
+- The key to having a valuable knowledge ecosystem is the interaction with a knowledge system that provides value, so more people will contribute the input and output. An engaging medium for knowledge.
+- An engaging medium for knowledge is one which brings the reader into active conversation with the material. It is a medium which encourages the reader to think, make, or act, beyond mindlessly consuming material.
 
-The core interaction on TARS is to iterate knowledge branching with other hackers:
+Therefore, the core interaction on TARS is to iterate knowledge branching with other hackers:
 
 <img src="images/folgezettel.png" alt="sample image">
 
