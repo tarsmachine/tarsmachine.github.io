@@ -68,7 +68,7 @@ The core interaction on TARS is to iterate knowledge branching with other hacker
 - Search network-driven knowledge
 - Create / join a mission to iterate the knowledge together
 - Clone other people's knowledge base to a local computer
-- Annotate and comment on it then **Push** it back to the network
+- Edit (Annotate, comment...) on it then **Push** it back to the network
 - Other users can choose to **Pull** the update to their branch
 - **Merge** different knowledge base
 
@@ -89,8 +89,8 @@ We decentralize our knowledge to a network with a customizable personal knowledg
 ### The Master Plan
 
 1. Build a search engine for network-driven knowledge
-2. The users iterate knowledge with other knowledge branch owner in the network
-3. A better knolwedge input & output system for the machine learning data pipeline
+2. The users iterate knowledge with other knowledge branch owners in the network
+3. A structured knolwedge input & output system is good for building efficient machine learning data pipeline
 3. Use the unique data to train the customizable personal knowledge AI
 
 ---
