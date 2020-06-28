@@ -91,8 +91,8 @@ We decentralize our knowledge to a network with a customizable personal knowledg
 
 1. Build a search engine for network-driven knowledge
 2. The users iterate knowledge with other knowledge branch owners in the network
-3. A structured knolwedge input & output system is good for building efficient machine learning data pipeline
-3. Use the unique data to train the customizable personal knowledge AI
+3. Build an efficient machine learning data pipeline on top of the structured knowledge input & output system 
+4. Use the unique data to train the customizable personal knowledge AI
 
 ---
 
