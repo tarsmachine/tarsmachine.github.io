@@ -2,39 +2,32 @@
 layout: default
 ---
 
-<img src="images/blacktars.png" alt="sample image" width="100" height="100">
+<img src="images/tars.png" alt="sample image" width="100" height="100">
 
 
 ### TARS
 
-## The Operating System for Human Knowldege
+## Empower humans collaboratively iterate knowledge faster
 
-<img src="images/infovknowledge.png" alt="sample image">
+<img src="images/infovknowledg.png" alt="sample image">
 
 To solve the scattered knowledge graph problem in the current web, I'm building:
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>A good knolwedge input & output system (search engine)</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>A well-structured knowledge network (interactions)</li>
-</ul>
+- A network-driven knolwedge input & output search system
 
-Mission: 
+- An interactive knowledge network
 
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Empower humans collaboratively iterate knowledge faster</li>
-</ul>
 
 ---
 
 ### Search
 
-**Stage1: A Search Engine for Hacker's Knowledge Base**
+**Stage1: A Search Engine for Hacker's Minds**
 
 **Launch: 7/15**
 
 
-- Upload your knowledge base (blogs, personal wiki...) to join the network
+- You need to have a knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list to clone
 - Search network-driven knowledge without noise and spam
 
