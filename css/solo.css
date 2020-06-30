@@ -21,7 +21,7 @@ body {
 }
 
 a {
-  color: #6441A4; /* From http://clrs.cc */
+  color: #50E3C2; /* From http://clrs.cc */
   text-decoration: none;
 }
 
@@ -119,7 +119,7 @@ blockquote {
   margin-right: 0;
   padding: 0rem 0.8rem;
   border-left: .3rem solid #ccc;
-  color: #555;
+  color: rgb(255, 255, 255);
 }
 
 blockquote p:last-child {
