@@ -9,9 +9,16 @@ layout: default
 
 ## Empower humans collaboratively iterate knowledge faster
 
-<img src="images/infovknowledg.png" alt="sample image">
+Problem:
 
-To solve the scattered knowledge graph problem in the current web, I'm building:
+<img src="images/infovknowledge.png" alt="sample image">
+
+> Knowledge become unstructured and mixed with ads and content spams on web
+
+Solution:
+
+<img src="images/shelves.png" alt="sample image">
+
 
 - A network-driven knolwedge input & output search system
 
