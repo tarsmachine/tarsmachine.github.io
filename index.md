@@ -9,7 +9,7 @@ layout: default
 
 ## Empowers humans to explore and iterate knowledge faster
 
-### Why TARS:
+**Why TARS:**
 
 <img src="images/infovknowledge.png" alt="sample image">
 
