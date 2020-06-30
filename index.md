@@ -11,8 +11,6 @@ layout: default
 
 **Why:**
 
-<img src="images/infovknowledge.png" alt="sample image">
-
 > Knowledge become unstructured and mixed with ads and content spams on web
 
 **Solution:**
@@ -29,7 +27,7 @@ layout: default
 
 **Launch: 7/15**
 
-- You need to have a knowledge base (blogs, personal wiki...) to join the network
+- Upload your knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list to clone
 - Search network-driven knowledge without noise and spam
 
