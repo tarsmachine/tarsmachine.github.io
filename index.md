@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/icon.png" alt="sample image" width="200" height="200">
+<img src="images/keyboard.png" alt="sample image" width="100" height="100">
 
 
 ### TARS
