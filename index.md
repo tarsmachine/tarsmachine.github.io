@@ -7,7 +7,7 @@ layout: default
 
 ### TARS
 
-## Empower humans collaboratively iterate knowledge faster
+## Empowers humans to explore and iterate knowledge faster
 
 Problem:
 
@@ -17,13 +17,11 @@ Problem:
 
 Solution:
 
-<img src="images/shelves.png" alt="sample image">
+> Stage1: A search engine for network-powered knowledge
 
+> Stage2: A git-powered knowledge network
 
-- A network-driven knolwedge input & output search system
-
-- An interactive knowledge network
-
+> Stage3: An operating system for knowledge
 
 ---
 
