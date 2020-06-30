@@ -17,7 +17,7 @@ layout: default
 
 Solution:
 
-> Stage1: A search engine for network-powered knowledge
+> Stage1: A search engine for personal knowledge base
 
 > Stage2: A git-powered knowledge network
 
@@ -44,7 +44,7 @@ Desktop Demo:
 
 ---
 
-### A Git-powered Knowledge Base Network
+### A Git-powered Knowledge Network
 
 **Launch: 8/15**
 
