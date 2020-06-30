@@ -11,7 +11,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #222;
+  color: #f2e9da;
 }
 
 @media (min-width: 50rem) {
@@ -31,7 +31,7 @@ a:hover, a:focus {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: #111;
+  color: #f2e9da ;
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', serif;
   line-height: 1.2
