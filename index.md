@@ -25,12 +25,9 @@ Solution:
 
 ---
 
-### Search
-
-**Stage1: A Search Engine for Hacker's Minds**
+### A Search Engine for Hacker's Minds
 
 **Launch: 7/15**
-
 
 - You need to have a knowledge base (blogs, personal wiki...) to join the network
 - Browse knowledge base list to clone
@@ -47,9 +44,7 @@ Desktop Demo:
 
 ---
 
-### Network
-
-**Stage2: A Git-powered Knowledge Base Network**
+### A Git-powered Knowledge Base Network
 
 **Launch: 8/15**
 
@@ -74,9 +69,7 @@ Therefore, the core interaction on TARS is to iterate knowledge branching with o
 
 ---
 
-### Intelligence
-
-**Stage3: The Operating System for Human Knowldege**
+### The Operating System for Human Knowldege
 
 **Vision In 5 Years**
 
