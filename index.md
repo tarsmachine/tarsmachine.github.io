@@ -9,7 +9,7 @@ layout: default
 
 ## Empowers humans to explore and iterate knowledge faster
 
-Problem:
+# Problem:
 
 <img src="images/infovknowledge.png" alt="sample image">
 
