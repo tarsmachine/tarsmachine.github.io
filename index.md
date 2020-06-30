@@ -39,7 +39,7 @@ Desktop Demo:
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
-**[Join Private Beta (Win/OSX/Ubuntu)](http://app.tarsmachine.com/)**
+**[✔️Join Private Beta (Win/OSX/Ubuntu)](http://app.tarsmachine.com/)**
 
 
 ---
@@ -96,15 +96,4 @@ One of my post from knowledge base got on **front page of Hacker News and got 16
 ---
 
 Feel free to [DM me](https://twitter.com/allenleein) or [Email me](mailto:allenleein@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
 
