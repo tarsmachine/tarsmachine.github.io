@@ -9,13 +9,13 @@ layout: default
 
 ## Empowers humans to explore and iterate knowledge faster
 
-**Why TARS:**
+**Why:**
 
 <img src="images/infovknowledge.png" alt="sample image">
 
 > Knowledge become unstructured and mixed with ads and content spams on web
 
-Solution:
+**Solution:**
 
 > Stage1: A search engine for personal knowledge base
 
