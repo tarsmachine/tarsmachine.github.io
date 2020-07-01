@@ -34,7 +34,7 @@ Desktop Demo:
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
-**[Join Private Beta (Win/OSX/Ubuntu)](http://app.tarsmachine.com/)**
+**[Request Access (Win/OSX/Ubuntu)](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private beta! I'm on [Win/OSX/Linux].">Request Access)**
 
 
 ---
