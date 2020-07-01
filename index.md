@@ -11,7 +11,7 @@ layout: default
 
 **Why:**
 
-> Knowledge searching become unstructured and mixed with ads and content spams on web
+> Knowledge searching on web become unstructured and mixed with ads and content spams
 
 **Solution:**
 
