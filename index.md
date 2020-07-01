@@ -11,7 +11,7 @@ layout: default
 
 **Why:**
 
-> Knowledge become unstructured and mixed with ads and content spams on web
+> Knowledge searching become unstructured and mixed with ads and content spams on web
 
 **Solution:**
 
@@ -25,10 +25,7 @@ layout: default
 
 ### A Search Engine for Hacker's Minds
 
-**Launch: 7/15**
-
 - Upload your knowledge base (blogs, personal wiki...) to join the network
-- Browse knowledge base list to clone
 - Search network-driven knowledge without noise and spam
 
 
@@ -37,32 +34,28 @@ Desktop Demo:
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
-**[✔️Join Private Beta (Win/OSX/Ubuntu)](http://app.tarsmachine.com/)**
+**[Join Private Beta (Win/OSX/Ubuntu)](http://app.tarsmachine.com/)**
 
 
 ---
 
 ### A Git-powered Knowledge Network
 
-**Launch: 8/15**
-
-
 I believe:
 
-1. The key to having a valuable knowledge ecosystem is the interaction with a knowledge system that provides value, so more people will contribute the input and output. An engaging medium for knowledge.
+1. The key to have an engaging knowledge medium is the interaction with a knowledge system that provides value, so more people will contribute the input and output.
 
-2. An engaging medium for knowledge is one which brings the reader into active conversation with the material. It is a medium which encourages the reader to think, make, or act, beyond mindlessly consuming material.
+2. TARS is a medium which encourages the users to think, make, or act, beyond mindlessly consuming knowledge.
 
 Therefore, the core interaction on TARS is to iterate knowledge branching with other hackers:
 
 <img src="images/folgezettel.png" alt="sample image">
 
-- Search network-driven knowledge
-- Create / join a mission to iterate the knowledge together
-- Clone other people's knowledge base to a local computer
+- Join a mission
+- Clone a knowledge branch
 - Edit (Annotate, comment...) on it then **Push** it back to the network
-- Other users can choose to **Pull** the update to their branch
-- **Merge** different knowledge base
+- The branch owner / other users can choose to **Pull** the update to their branch
+- **Merge** different knowledge branch
 
 
 ---
