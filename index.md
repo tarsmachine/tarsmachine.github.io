@@ -25,8 +25,8 @@ layout: default
 
 ### A Search Engine for Hacker's Minds
 
-- Upload your knowledge base (blogs, personal wiki...) to join the network
-- Search network-driven knowledge without noise and spam
+- A customizable-input search engine for the personal knowledge base
+- It empowers you to search for network-based knowledge without any noise and spam.
 
 
 Desktop Demo:
