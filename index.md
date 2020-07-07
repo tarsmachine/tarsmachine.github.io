@@ -23,13 +23,13 @@ layout: default
 
 ---
 
-### A Search Engine for Hacker's Minds
+### A Search Engine for Personal Knowledge Base
 
-- A customizable-input search engine for the personal knowledge base
-- It empowers you to search for network-based knowledge without any noise and spam.
+- A customizable-input search engine
+- Search without any ads and spams
 
 
-Desktop Demo:
+Beta Demo:
 
 
 <img src="images/search.gif" alt="sample image" width="600" height="350">
@@ -41,18 +41,13 @@ Desktop Demo:
 
 ### A Git-powered Knowledge Network
 
-I believe:
+- TARS is a medium which encourages the users to think, make, or act, beyond mindlessly consuming knowledge
 
-1. The key to have an engaging knowledge medium is the interaction with a knowledge system that provides value, so more people will contribute the input and output.
-
-2. TARS is a medium which encourages the users to think, make, or act, beyond mindlessly consuming knowledge.
-
-Therefore, the core interaction on TARS is to iterate knowledge branching with other hackers:
+- The core interaction on TARS is to iterate knowledge branching with other hackers:
 
 <img src="images/folgezettel.png" alt="sample image">
 
-- Join a mission
-- Clone a knowledge branch
+- Clone a knowledge branch 
 - Edit (Annotate, comment...) on it then **Push** it back to the network
 - The branch owner / other users can choose to **Pull** the update to their branch
 - **Merge** different knowledge branch
@@ -64,7 +59,7 @@ Therefore, the core interaction on TARS is to iterate knowledge branching with o
 
 **Vision In 5 Years**
 
-We decentralize our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
+We upload our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
 
 
 ---
