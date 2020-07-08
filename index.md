@@ -13,11 +13,11 @@ layout: default
 
 > Knowledge searching on web become unstructured and mixed with ads and content spams
 
-**Solution:**
+**Plan:**
 
 > Stage1: A search engine for personal knowledge base
 
-> Stage2: A git-powered knowledge network
+> Stage2: A collaborative knowledge network
 
 > Stage3: An operating system for knowledge
 
@@ -29,9 +29,6 @@ layout: default
 - Search without any ads and spams
 
 
-Beta Demo:
-
-
 <img src="images/search.gif" alt="sample image" width="600" height="350">
 
 **[Request Access (Win/OSX/Ubuntu)](mailto:allenleein@gmail.com?subject=Join TARS&body=Hi, I would like to join the private beta! I'm on [Win/OSX/Linux].)**
@@ -39,11 +36,13 @@ Beta Demo:
 
 ---
 
-### A Git-powered Knowledge Network
+### A Collaborative Knowledge Network
 
-- TARS is a medium which encourages the users to think, make, or act, beyond mindlessly consuming knowledge
+- A medium which encourages the users to think, make, or act, beyond mindlessly consuming knowledge
 
-- The core interaction on TARS is to iterate knowledge branching with other hackers:
+- Git-powered([Example](https://github.com/allenleein/knowledge-base))
+
+- The core interaction on TARS is to iterate knowledge branching with other people:
 
 <img src="images/folgezettel.png" alt="sample image">
 
@@ -57,7 +56,7 @@ Beta Demo:
 
 ### The Operating System for Human Knowldege
 
-**Vision In 5 Years**
+**Vision In 10 Years**
 
 We upload our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
 
