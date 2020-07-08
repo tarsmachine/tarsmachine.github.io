@@ -40,7 +40,7 @@ layout: default
 
 - A medium which encourages the users to think, make, or act, beyond mindlessly consuming knowledge
 
-- Git-powered([Example](https://github.com/allenleein/knowledge-base))
+- Git-powered ([Example](https://github.com/allenleein/knowledge-base))
 
 <img src="images/folgezettel.png" alt="sample image">
 
