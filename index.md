@@ -11,7 +11,7 @@ layout: default
 
 **Why:**
 
-> Knowledge searching on web become unstructured and mixed with ads and content spams
+> Knowledge searching on internet become unstructured and mixed with ads and content spams
 
 **Plan:**
 
@@ -60,10 +60,7 @@ The core interaction on TARS is to iterate knowledge branching with other people
 
 We upload our knowledge to a network with a customizable personal knowledge AI, so we can collaboratively iterate knowledge faster.
 
-
----
-
-### The Master Plan
+**The Master Plan**
 
 1. Build a search engine for network-driven knowledge
 2. The users iterate knowledge with other knowledge branch owners in the network
