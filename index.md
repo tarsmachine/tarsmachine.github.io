@@ -42,9 +42,9 @@ layout: default
 
 - Git-powered([Example](https://github.com/allenleein/knowledge-base))
 
-- The core interaction on TARS is to iterate knowledge branching with other people:
-
 <img src="images/folgezettel.png" alt="sample image">
+
+The core interaction on TARS is to iterate knowledge branching with other people:
 
 - Clone a knowledge branch 
 - Edit (Annotate, comment...) on it then **Push** it back to the network
