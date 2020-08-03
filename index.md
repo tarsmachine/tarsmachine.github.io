@@ -5,7 +5,7 @@ layout: default
 <img src="images/tars.png" alt="sample image" width="100" height="100">
 
 
-### Investor Q&A
+### Investor Q&As
 
 **Founder:**
 
