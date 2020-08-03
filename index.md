@@ -8,6 +8,7 @@ layout: default
 ### The Ultimate Q&A
 
 
+<img src="images/founder.png" alt="sample image" width="600" height="350">
 
 **Founder:**
 
