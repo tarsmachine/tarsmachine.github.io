@@ -22,24 +22,29 @@ layout: default
 - How We Are Going to Get There
 
 
-## What Do We Do 
-- [ ] Problems
-- [ ] Solution 
+### What Do We Do
 
-## What Have We Done So Far
-- [ ] Demo 
+- Problems
+- Solution 
 
+### What Have We Done So Far
 
-## Earned Secrets
-- [ ] Product Insights
-- [ ] Distribution
-- [ ] Why Now
-- [ ] Compund leverage
-
-## Where We Are Going
-- [ ] One-Liner Mission
+- Demo 
 
 
-## How We Are Going to Get There
-- [ ] The master plan 
-- [ ] Risks 
+### Earned Secrets
+
+- Product Insights
+- Distribution
+- Why Now
+- Compund leverage
+
+### Where We Are Going
+
+- One-Liner Mission
+
+
+### How We Are Going to Get There
+
+- The master plan 
+- Risks 
