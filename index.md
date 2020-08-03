@@ -13,7 +13,7 @@ layout: default
 
 > Built the first [programmed drones](https://vimeo.com/111901733) to write Chinese letters in the sky
 
-### Table of Contents
+#### Table of Contents
 
 - What Do We Do
 - What Have We Done So Far
@@ -21,16 +21,20 @@ layout: default
 - Where We Are Going
 - How We Are Going to Get There
 
+---
 
 ### What Do We Do
 
 - Problems
 - Solution 
 
+---
+
 ### What Have We Done So Far
 
 - Demo 
 
+---
 
 ### Earned Secrets
 
@@ -39,10 +43,13 @@ layout: default
 - Why Now
 - Compund leverage
 
+---
+
 ### Where We Are Going
 
 - One-Liner Mission
 
+---
 
 ### How We Are Going to Get There
 
