@@ -5,10 +5,7 @@ layout: default
 <img src="images/tars.png" alt="sample image" width="100" height="100">
 
 
-### The Ultimate Q&A
-
-
-<img src="images/founder.png" alt="sample image" width="800" height="350">
+### Investor Q&A
 
 **Founder:**
 
