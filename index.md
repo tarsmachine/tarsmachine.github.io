@@ -20,6 +20,6 @@ layout: default
 - Earned Secrets
 - Where We Are Going
 - How We Are Going to Get There
-- Compound Leverage
+
 
 
