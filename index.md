@@ -21,8 +21,9 @@ layout: default
 **Table of Contents:**
 
 ```
-1. What Do We Do
-2. What Have We Done So Far
+1. Problem
+2. Solution
+3. the Early Results
 3. Earned Secrets
 4. Where We Are Going
 5. How We Are Going to Get There
@@ -31,16 +32,20 @@ layout: default
 
 ---
 
-### What Do We Do
+### Problems
 
-- Problems
-- Solution 
 
 ---
 
-### What Have We Done So Far
+### Solution 
+
+---
+
+
+### Early Results
 
 - Demo 
+
 
 ---
 
