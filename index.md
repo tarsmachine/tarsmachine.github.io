@@ -13,7 +13,7 @@ layout: default
 
 > Built the first [programmed drones](https://vimeo.com/111901733) to write Chinese letters in the sky
 
-> Former growth lead & bot engineering at Mobiusbobs
+> Former growth lead & bot engineering at [Mobiusbobs](https://www.crunchbase.com/organization/mobiusbobs-inc)
 
 > Former tech advisor to the president of Condé Nast China
 
