@@ -20,7 +20,6 @@ layout: default
 
 **Table of Contents:**
 
-```
 1. Problem
 2. Solution
 3. the Early Results
@@ -28,7 +27,6 @@ layout: default
 4. Where We Are Going
 5. How We Are Going to Get There
 
-```
 
 ---
 
