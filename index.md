@@ -20,11 +20,14 @@ layout: default
 
 **Table of Contents:**
 
-- What Do We Do
-- What Have We Done So Far
-- Earned Secrets
-- Where We Are Going
-- How We Are Going to Get There
+```
+1. What Do We Do
+2. What Have We Done So Far
+3. Earned Secrets
+4. Where We Are Going
+5. How We Are Going to Get There
+
+```
 
 ---
 
