@@ -5,13 +5,18 @@ layout: default
 <img src="images/tars.png" alt="sample image" width="100" height="100">
 
 
-### Investor Q&As
+### Future Board Q&As
 
-**Founder:**
+**Who Am I:**
 
 > Built the most followed [VC publication](https://medium.com/7ventures) on Medium
 
 > Built the first [programmed drones](https://vimeo.com/111901733) to write Chinese letters in the sky
+
+> Former growth lead & bot engineering at Mobiusbobs
+
+> Former tech advisor to the president of Condé Nast China
+
 
 **Table of Contents:**
 
