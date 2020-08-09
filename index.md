@@ -8,10 +8,17 @@ layout: default
 
 **Intro:**
 
-[Pensieve]() is an iOS search app that extracts the details of screenshots like text, links, locations, and makes it searchable and clickable. We make your static digital memories interactable. 
+[Pensieve]() is an iOS search app that extracts the details of screenshots like text, links, locations, and makes it searchable and clickable. 
+
+We make your static digital memories interactable. 
+
+**Status:**
+
+- Building iOS private beta
+- Pre-everything: launch, user, rev, incorporation
 
 
-**Table of Contents:**
+### Table of Contents
 
 1. Traction (user,customomers,revenue)
 2. Insights
@@ -26,9 +33,9 @@ layout: default
 
 ### Traction
 
-No revenue, user.
+Revenue, user: 0
 
-(I just decided to shift building the iOS app first a week ago. Before that, I have 5 private beta users on the [previous desktop version]())
+(I just decided to buildi the iOS app first a week ago. Before that, I have 5 private beta users on the [previous desktop version]())
 
 ---
 
@@ -54,19 +61,18 @@ I started my '[digital brain](https://github.com/allenleein/knowledge-base)' pro
 
 ### Insights to inspiration
 
-These under discovered behaviors that indicate I might have a chance to build a niche social network of digital memories on top of it.  
+These under-discovered behaviors that indicate I might have a chance to build a niche social network of digital memories on top of my current followers.  
 
-So, why building a tool to serve the discovery needs first? Because without a search engine with OCR, Computer Vision, it takes 100x more time to discover the the right part of information in screenshots, pdfs, audio, video. Without the discovery features, It's hard to reduce the social discovery friction at scale.
+So, why building a tool to serve the discovery needs first? Because without a search engine with OCR, Computer Vision, it will take a user 100x more time to discover the right part of the information in screenshots, pdfs, audio, video. Without the discovery features, It's also hard to reduce the social discovery friction at scale.
 
-So, in order to create the initial product momentum, I start from screenshots discovery, then expand to other file formats I mentioned above.
+So, to create the initial product momentum, I start from screenshots discovery, then expand to other file formats I mentioned above.
 
-**Interesting numbers:**
-
-> My project's staring-forking ratio is as high as the most popular repos on Github.
+**'My project's staring-forking ratio is as high as the most popular repos on Github**
  
-My project: +13% (the most 5 popular repo on Github: +13.8%)
+My project: +13% 
+The most popular repo on Github: +13.8%
 
- ( Staring-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account)
+*Staring-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
 
 
 ---
@@ -78,24 +84,22 @@ My project: +13% (the most 5 popular repo on Github: +13.8%)
 
 > An existing niche distribution that I can leverage the community and expand from there
 
-Except people who DM/Cold email me, my project [got recommended]((https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)) by a popular open source knowledge community leader on his list of favorite knowledge wikis.
+Except for people who DM/Cold email me, my project [got recommended]((https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
 
-The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining a digital memories, knowledge base project like myslef. 
+The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining digital memory, knowledgebase project like myself. 
 
-I will leverage the niche community of knowledge base users first, then expand it to more broad user base. 
-
-I cold reached 10 people from the community for my idea, they all signed up the waiting list.
+I will leverage the niche community of knowledge base users first, then expand it to a more broad user base. 
 
 
 
 ### Why Now
 
-Screenshots in people's phone are the most underdiscovered personal memories other than photos, also is the hardest media to discover.
+Screenshots in people's phones are the most under-discovered personal memories other than photos, also are the hardest media to discover. 
 
 
 ### What's Special
 
-We are creating another media interface layer by making the static media files like screenshots, pdfs interactively alive. For examples, you can screenshots the screen while you listen to a Podcast episode as a bookmark, same when you saving Instagram photos for wish list ideas. We also plan to design the next standard of interactive pdf format, which is including animation, videos, Flash (Demo).
+We are creating another media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark, same when you save Instagram photos for wish list ideas. We also plan to design the next standard of interactive pdf format, which is including animation, videos, Flash (Demo).
 
 
 
@@ -112,4 +116,4 @@ We are creating another media interface layer by making the static media files l
 
 > Former tech advisor to the president of Condé Nast China
 
-allen@wormh0le.com
+[allen@wormh0le.com](mailto: allen@wormh0le.com)
