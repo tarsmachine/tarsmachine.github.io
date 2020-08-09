@@ -5,8 +5,6 @@ layout: default
 <img src="images/pensieve.png" alt="sample image" width="100" height="100">
 
 
-### Earned Secrets
-
 
 **Intro:**
 
@@ -17,9 +15,11 @@ layout: default
 
 1. Traction (user,customomers,revenue)
 2. Insights
-3. How do i get it
-4. Insights to inspiration
-5. Unfair advantage
+3. How Do I Get It
+4. Insights to Inspiration
+5. Unfair Advantage
+6. Why Now
+7. What's Special
 
 
 ---
@@ -28,7 +28,7 @@ layout: default
 
 No revenue, user.
 
-(Just shifted to build the iOS app first a week ago. I have 5 private beta users on the previous desktop version)
+(I just decided to shift building the iOS app first a week ago. Before that, I have 5 private beta users on the [previous desktop version]())
 
 ---
 
