@@ -20,7 +20,7 @@ We make your static digital memories interactable.
 
 ### Table of Contents
 
-1. Traction (user,customomers,revenue)
+1. Traction
 2. Insights
 3. How Do I Get It
 4. Insights to Inspiration
