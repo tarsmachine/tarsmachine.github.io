@@ -37,22 +37,24 @@ We make your static digital memories interactable.
 ---
 
 
-### Insights 
+### Insights from Building A 'Digital Brain' on Github for 2 Years 
 
 > Some people on Github love to follow the update of my digital memories project (screenshots, pdfs, audios...), and clone it to their account.
 
 > My digital memories's staring-forking ratio is as high as the most popular repos on Github.
 
-
----
-
-### How do i get it
-
 I started my '[digital brain](https://github.com/allenleein/knowledge-base)' project on Github 2 Years Ago, without any promotion, people there:
 
 1. Love to clone my project and follow the updates
 2. [Thank me](https://imgur.com/a/PiVlCoW) for easy to navigate folders and files of my project
-3. Tell me they love my original project idea: 'decentralize my brain to a network of brains’.
+3. Tell me they love my original project idea: 'decentralize my brain to a network of brains’
+
+> 'My project's staring-forking ratio is as high as the most popular repos on Github
+>  
+> My project: +13% 
+> The most popular repo on Github: +13.8%
+
+*Staring-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
 
 
 
@@ -63,13 +65,6 @@ These under-discovered behaviors that indicate I might have a chance to build a 
 So, why building a tool to serve the discovery needs first? Because without a search engine with OCR, Computer Vision, it will take a user 100x more time to discover the right part of the information in screenshots, pdfs, audio, video. Without the discovery features, It's also hard to reduce the social discovery friction at scale.
 
 So, to create the initial product momentum, I start from screenshots discovery, then expand to other file formats I mentioned above.
-
-> 'My project's staring-forking ratio is as high as the most popular repos on Github
- 
-- My project: +13% 
-- The most popular repo on Github: +13.8%
-
-*Staring-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
 
 
 ---
