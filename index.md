@@ -40,7 +40,7 @@ We make your static digital memories interactable.
 ### Insights from Building A 'Digital Brain' on Github for 2 Years 
 
 > Some people on Github love to follow the update of my digital memories project (screenshots, pdfs, audios...), and clone it to their account.
-
+>
 > My digital memories's staring-forking ratio is as high as the most popular repos on Github.
 
 I started my '[digital brain](https://github.com/allenleein/knowledge-base)' project on Github 2 Years Ago, without any promotion, people there:
@@ -51,8 +51,7 @@ I started my '[digital brain](https://github.com/allenleein/knowledge-base)' pro
 
 > 'My project's staring-forking ratio is as high as the most popular repos on Github
 >  
-> My project: +13% 
-> The most popular repo on Github: +13.8%
+> My project: +13% vs. Top 5 popular repo on Github: +13.8%
 
 *Staring-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
 
