@@ -99,7 +99,9 @@ Screenshots in people's phones are the most under-discovered personal memories o
 
 ### What's the Future
 
-We are creating another media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark, same when you save Instagram photos for wish list ideas. We also plan to design the next standard of interactive pdf format, which is including animation, videos, Flash (Demo).
+We are creating another media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark and share it with friends, then your friend can listen to the episode with the timestamp just by clicking the screenshot.
+
+We also plan to design the next standard of interactive pdf format, which is including animation, videos, and Flash in a PDF (Demo).
 
 
 
