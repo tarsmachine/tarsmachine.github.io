@@ -26,7 +26,7 @@ We make your static digital memories interactable.
 4. Insights to Inspiration
 5. Unfair Advantage
 6. Why Now
-7. What's Special
+7. What's the Future
 
 
 ---
@@ -97,7 +97,7 @@ I will leverage the niche community of knowledge base users first, then expand i
 Screenshots in people's phones are the most under-discovered personal memories other than photos, also are the hardest media to discover. 
 
 
-### What's Special
+### What's the Future
 
 We are creating another media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark, same when you save Instagram photos for wish list ideas. We also plan to design the next standard of interactive pdf format, which is including animation, videos, Flash (Demo).
 
