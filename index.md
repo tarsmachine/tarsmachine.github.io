@@ -12,11 +12,6 @@ layout: default
 
 We make your static digital memories interactable. 
 
-**Status:**
-
-- Building iOS private beta
-- Pre-everything: launch, user, rev, incorporation
-
 
 ### Table of Contents
 
@@ -31,11 +26,13 @@ We make your static digital memories interactable.
 
 ---
 
-### Traction
+### Zero Traction
 
-Revenue, user: 0
+- Revenue, user: 0
+- Pre-everything: launch, user, rev, incorporation
+- Building iOS beta. Beta Launch: Mid-Sep
 
-(I just decided to buildi the iOS app first a week ago. Before that, I have 5 private beta users on the [previous desktop version]())
+(I just decided to build the iOS app first. Before that, I have 5 users on the [macOS private beta]())
 
 ---
 
