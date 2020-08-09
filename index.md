@@ -44,7 +44,7 @@ No revenue, user.
 
 ### How do i get it
 
-I started my '[digital brain]((https://github.com/allenleein/knowledge-base))' project on Github 2 Years Ago, without any promotion, people there:
+I started my '[digital brain](https://github.com/allenleein/knowledge-base)' project on Github 2 Years Ago, without any promotion, people there:
 
 1. Love to clone my project and follow the updates
 2. [Thank me](https://imgur.com/a/PiVlCoW) for easy to navigate folders and files of my project
