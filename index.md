@@ -67,10 +67,10 @@ So, why building a tool to serve the discovery needs first? Because without a se
 
 So, to create the initial product momentum, I start from screenshots discovery, then expand to other file formats I mentioned above.
 
-**'My project's staring-forking ratio is as high as the most popular repos on Github**
+> 'My project's staring-forking ratio is as high as the most popular repos on Github
  
-My project: +13% 
-The most popular repo on Github: +13.8%
+- My project: +13% 
+- The most popular repo on Github: +13.8%
 
 *Staring-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
 
