@@ -6,7 +6,7 @@ layout: default
 
 
 
-**Intro:**
+### Intro
 
 We make your static digital memories interactable. 
 
