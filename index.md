@@ -45,7 +45,7 @@ The staring-forking ratio of my project is as high as the most popular repos on 
 
 These insights inspired me to build a niche social network of digital memories on top of my current followers.  
 
-**Why building a search engine to serve the personal discovery needs first**
+**Why building a search engine to serve the personal discovery needs first?**
 
 First, the screenshots in people's phones are the most under-discovered personal memories, also the hardest media to discover. 
 
