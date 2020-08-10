@@ -8,8 +8,6 @@ layout: default
 
 ### Intro
 
-We make your static digital memories interactable. 
-
 [Pensieve](http://ios.pensieves.co/) is an iOS search app that extracts the details of screenshots like text, links, locations, and makes it searchable and clickable. 
 
 
@@ -19,9 +17,7 @@ We make your static digital memories interactable.
 
 - Revenue, user: 0
 - Pre-everything: launch, user, rev, incorporation
-- Building iOS beta. Beta Launch: Mid-Sep
-
-(I just decided to build the iOS app first. Before that, I have 5 users on the [macOS private beta]())
+- Status: building iOS beta. Launch: Mid Sep
 
 ---
 
@@ -51,22 +47,19 @@ These insights inspired me to build a niche social network of digital memories o
 
 **Why building a search engine to serve the personal discovery needs first**
 
-First, the screenshots in people's phones are the most under-discovered personal memories other than photos, also are the hardest media to discover. 
+First, the screenshots in people's phones are the most under-discovered personal memories, also the hardest media to discover. 
 
-Second, a social app without the OCR, Computer Vision features in the search engine, it will take a user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
+Second, a social app without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
 
-Therefore, to create the initial product momentum, I start from screenshots discovery, then will expand to other file formats in the future.
+Therefore, to create the initial product momentum, I start from screenshots discovery. I will expand to other file formats after reach PMF.
 
 **New media format**
 
 In the longterm, I want to create a new media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark and share it with friends, then your friend can listen to the episode with the timestamp just by clicking the screenshot in our app.
 
-For PDF, we will deliver the next standard of interactive pdf format, which is including animation, videos, and Flash in a PDF ([Open demo in Chrome](https://cdn.jsdelivr.net/gh/osnr/horrifying-pdf-experiments@master/breakout.pdf)).
-
-
 ---
 
-### An Existing Niche Distribution**
+### An Existing Niche Distribution
 
 Except for my own followers, my project [got recommended]((https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
 
