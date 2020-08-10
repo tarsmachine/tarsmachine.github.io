@@ -49,20 +49,33 @@ The staring-forking ratio of my project is as high as the most popular repos on 
 
 These insights inspired me to build a niche social network of digital memories on top of my current followers.  
 
-So, why building a search engine to serve the personal discovery needs first? Because a social app without the OCR, Computer Vision features in the search engine, it will take a user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
+**Why building a search engine to serve the personal discovery needs first**
 
-Therefore, to create the initial product momentum, I start from screenshots discovery, then will expand to other file formats I mentioned above in the future.
+First, the screenshots in people's phones are the most under-discovered personal memories other than photos, also are the hardest media to discover. 
+
+Second, a social app without the OCR, Computer Vision features in the search engine, it will take a user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
+
+Therefore, to create the initial product momentum, I start from screenshots discovery, then will expand to other file formats in the future.
+
+**New media format**
+
+In the longterm, I want to create a new media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark and share it with friends, then your friend can listen to the episode with the timestamp just by clicking the screenshot in our app.
+
+For PDF, we will deliver the next standard of interactive pdf format, which is including animation, videos, and Flash in a PDF ([Open demo in Chrome](https://cdn.jsdelivr.net/gh/osnr/horrifying-pdf-experiments@master/breakout.pdf)).
 
 
 ---
 
-### An Existing Niche Distribution
+### An Existing Niche Distribution**
 
 Except for my own followers, my project [got recommended]((https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
 
 The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining or following the digital memory, knowledgebase projects like myself. 
 
 I will leverage the niche community of knowledge base users first, then expand it to a more broad user base. 
+
+
+
 
 
 
