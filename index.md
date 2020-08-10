@@ -47,7 +47,7 @@ These insights inspired me to build a niche social network of digital memories l
 
 First, the screenshots in people's phones are the most under-discovered personal memories, also one of the hardest media formats to discover. 
 
-Second, a social app for screenshots without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
+Second, a social app for screenshots without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information. Without the OCR, CV search features, It's also hard to reduce the friction of social discovery at scale.
 
 Therefore, to create the initial product momentum, I focus on building an app for personal screenshots discovery first. 
 
@@ -55,7 +55,7 @@ Therefore, to create the initial product momentum, I focus on building an app fo
 
 ### An Existing Niche Distribution
 
-Except for my own followers, my project [got recommended](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
+Except for my own followers, my project [got recommended](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked) by a popular open-source knowledge community leader on his favorite knowledge wikis list.
 
 The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining or following the digital memory, knowledgebase projects like myself. 
 
