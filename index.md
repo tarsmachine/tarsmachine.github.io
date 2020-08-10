@@ -43,7 +43,7 @@ The staring-forking ratio of my project is as high as the most popular repos on 
 
 *Starig-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
 
-
+---
 
 ### Insights to Inspiration
 
