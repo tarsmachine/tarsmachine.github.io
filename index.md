@@ -35,6 +35,7 @@ I started my '[digital brain](https://github.com/allenleein/knowledge-base)' pro
 The staring-forking ratio of my project is as high as the most popular repos on Github.
   
 > My project: +13%
+
 > Top 5 popular repo on Github: +13.8%
 
 ---
