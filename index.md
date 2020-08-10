@@ -10,7 +10,7 @@ layout: default
 
 We make your static digital memories interactable. 
 
-[Pensieve]() is an iOS search app that extracts the details of screenshots like text, links, locations, and makes it searchable and clickable. 
+[Pensieve](http://ios.pensieves.co/) is an iOS search app that extracts the details of screenshots like text, links, locations, and makes it searchable and clickable. 
 
 
 ---
