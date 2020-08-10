@@ -34,11 +34,11 @@ We make your static digital memories interactable.
 I started my '[digital brain](https://github.com/allenleein/knowledge-base)' project on Github 2 Years Ago, without any promotion, people there:
 
 1. Love to clone my project and follow the updates
-2. [Thank me](https://imgur.com/a/PiVlCoW) for easy to navigate folders and files of my project
+2. [Thank me](https://imgur.com/a/PiVlCoW) for organizing and sharing my knowledge inputs regularly.
 3. Tell me they love my original project idea: 'decentralize my brain to a network of brains’
 
-> The staring-forking ratio of my project is as high as the most popular repos on Github
->  
+The staring-forking ratio of my project is as high as the most popular repos on Github.
+  
 > My project: +13% vs. Top 5 popular repo on Github: +13.8%
 
 *Starig-forking ratio: for every 10 people who star a project, at least 1 of them will clone it to their account
@@ -49,7 +49,7 @@ I started my '[digital brain](https://github.com/allenleein/knowledge-base)' pro
 
 These insights inspired me to build a niche social network of digital memories on top of my current followers.  
 
-Why building a search engine to serve the discovery needs first? Because a social app without the OCR, Computer Vision features in the search engine, it will take a user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
+So, why building a search engine to serve the personal discovery needs first? Because a social app without the OCR, Computer Vision features in the search engine, it will take a user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
 
 Therefore, to create the initial product momentum, I start from screenshots discovery, then will expand to other file formats I mentioned above in the future.
 
@@ -60,7 +60,7 @@ Therefore, to create the initial product momentum, I start from screenshots disc
 
 Except for my own followers, my project [got recommended]((https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
 
-The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining digital memory, knowledgebase project like myself. 
+The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining or following the digital memory, knowledgebase projects like myself. 
 
 I will leverage the niche community of knowledge base users first, then expand it to a more broad user base. 
 
