@@ -15,9 +15,8 @@ layout: default
 
 ### Zero Traction
 
-- Revenue, user: 0
 - Pre-everything: launch, user, rev, incorporation
-- Status: building iOS beta. Launch: Mid Sep
+- Status: building iOS beta. Private Beta launch: 9/15
 
 ---
 
@@ -31,6 +30,7 @@ I started my '[digital brain](https://github.com/allenleein/knowledge-base)' pro
 
 1. Love to clone my project and follow the updates
 2. [Thank me](https://imgur.com/a/PiVlCoW) for organizing and sharing my knowledge inputs regularly.
+3. Like the way I search the whole project in Terminal
 3. Tell me they love my original project idea: 'decentralize my brain to a network of brains’
 
 The staring-forking ratio of my project is as high as the most popular repos on Github.
@@ -53,7 +53,7 @@ Second, a social app without the OCR, Computer Vision features in the search eng
 
 Therefore, to create the initial product momentum, I start from screenshots discovery. I will expand to other file formats after reach PMF.
 
-**New media format**
+**A new way to interact with static media files**
 
 In the longterm, I want to create a new media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark and share it with friends, then your friend can listen to the episode with the timestamp just by clicking the screenshot in our app.
 
@@ -61,7 +61,7 @@ In the longterm, I want to create a new media interface layer by making the stat
 
 ### An Existing Niche Distribution
 
-Except for my own followers, my project [got recommended]((https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
+Except for my own followers, my project [got recommended](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked) by a popular open-source knowledge community leader on his list of favorite knowledge wikis.
 
 The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining or following the digital memory, knowledgebase projects like myself. 
 
