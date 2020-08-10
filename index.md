@@ -7,7 +7,7 @@ layout: default
 
 ### Intro
 
-[Pensieve](http://ios.pensieves.co/) is an iOS search app that extracts the details of screenshots like text, links, locations, and makes it searchable and clickable. 
+[Pensieve](http://ios.pensieves.co/) is an iOS search app that extracts the details from screenshots like text, links, and makes it searchable and clickable. 
 
 
 ---
@@ -36,7 +36,7 @@ The staring-forking ratio of my project is as high as the most popular repos on 
   
 > My project: +13%
 
-> Top 5 popular repo on Github: +13.8%
+> Top 5 repo on Github: +13.8%
 
 ---
 
@@ -48,7 +48,7 @@ These insights inspired me to build a niche social network of digital memories l
 
 First, the screenshots in people's phones are the most under-discovered personal memories, also one of the hardest media formats to discover. 
 
-Second, a social app for screenshots without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information. Without the OCR, CV search features, It's also hard to reduce the friction of social discovery at scale.
+Second, a social app for screenshots without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information. Without these features, It's also hard to reduce the friction of social discovery at scale.
 
 Therefore, to create the initial product momentum, I focus on building an app for personal screenshots discovery first. 
 
@@ -58,9 +58,9 @@ Therefore, to create the initial product momentum, I focus on building an app fo
 
 Except for my own followers, my project [got recommended](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked) by a popular open-source knowledge community leader on his favorite knowledge wikis list.
 
-The other knowledge wiki owners on the list and their followers are my targeted early user since they are maintaining or following the digital memory, knowledgebase projects like myself. 
+The other knowledge wiki owners on the list and their followers are also my targeted early users since they are maintaining or following the digital memory, knowledgebase projects like myself. 
 
-I will leverage the niche community of knowledge base users first, then expand it to a more broad user base. 
+I will leverage the knowledge base communities first, then expand it to a more broad user base. 
 
 
 
