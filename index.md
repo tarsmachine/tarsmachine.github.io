@@ -49,13 +49,9 @@ These insights inspired me to build a niche social network of digital memories o
 
 First, the screenshots in people's phones are the most under-discovered personal memories, also the hardest media to discover. 
 
-Second, a social app without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information in screenshots. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
+Second, a social app for screenshots without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information. Without the discovery features, It's also hard to reduce the friction of social discovery at scale.
 
 Therefore, to create the initial product momentum, I start from screenshots discovery. I will expand to other file formats after reach PMF.
-
-**A new way to interact with static media files**
-
-In the longterm, I want to create a new media interface layer by making the static media files like screenshots, pdfs interactively alive. For example, you can screenshot the screen while you listen to a podcast episode as a bookmark and share it with friends, then your friend can listen to the episode with the timestamp just by clicking the screenshot in our app.
 
 ---
 
