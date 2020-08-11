@@ -7,7 +7,7 @@ layout: default
 
 ### Intro
 
-[Pensieve](http://ios.pensieves.co/) is an iOS search app that extracts the details from screenshots like text, links, and makes it searchable and clickable. 
+[Pensieve](http://ios.pensieves.co/) is an iOS app that extracts the details from screenshots like text, links, and makes it searchable and clickable. 
 
 
 ---
@@ -15,7 +15,7 @@ layout: default
 ### Zero Traction
 
 - Pre-everything: launch, user, rev, incorporation
-- Status: building iOS beta. Private Beta launch: 9/15
+- Status: building iOS private beta (launch: 9/15)
 
 ---
 
