@@ -69,7 +69,7 @@ I will leverage the knowledge base communities first, then expand it to a more b
 
 - Build a search engine that extracts the details from screenshots, and makes it searchable and clickable
 
-- Invent a new way people interact with static media(Photo, PDF...)
+- Invent a new way people interact with static media (Photo, PDF...)
 
 - Build a private social network for personal digital memories
 
