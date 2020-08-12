@@ -63,7 +63,15 @@ The other knowledge wiki owners on the list and their followers are also my targ
 I will leverage the knowledge base communities first, then expand it to a more broad user base. 
 
 
+---
 
+### The Short Master Plan
+
+- Build a search engine that extracts the details from screenshots, and makes it searchable and clickable
+
+- Invent a new way people interact with static media(Photo, PDF...)
+
+- Build a private social network for personal digital memories
 
 
 
