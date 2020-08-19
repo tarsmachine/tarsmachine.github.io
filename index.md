@@ -7,8 +7,7 @@ layout: default
 
 ### Intro
 
-[Pensieve](http://ios.pensieves.co/) is an iOS app that extracts the details from screenshots like text, links, and makes it searchable and clickable. 
-
+[Pensieve](http://ios.pensieves.co/) is an iOS app that extracts text, links from your screenshots, and makes it searchable and clickable.
 
 ---
 
@@ -44,7 +43,7 @@ The staring-forking ratio of my project is as high as the most popular repos on 
 
 These insights inspired me to build a niche social network of digital memories like screenshots, PDFs on top of my current followers.  
 
-**Why building a search engine for personal screenshots discovery first?**
+**Why build a search engine for personal screenshots discovery first?**
 
 First, the screenshots in people's phones are the most under-discovered personal memories, also one of the hardest media formats to discover. 
 
