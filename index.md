@@ -26,7 +26,7 @@ layout: default
 
 I started my '[digital brain](https://github.com/allenleein/knowledge-base)' project on Github 2 years ago. Without any promotion, people there:
 
-1. Love to clone my project and follow the updates
+1. Love to clone my 'digital brain' and follow the updates
 2. [Thank me](https://imgur.com/a/PiVlCoW) for organizing and sharing my knowledge inputs regularly.
 3. Like the way I search the whole project in terminal
 3. Love my original project idea: 'decentralize my brain to a network of brains’
