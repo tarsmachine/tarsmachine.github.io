@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<img src="images/pensieve.png" alt="sample image" width="200" height="200">
+<img src="images/x.png" alt="sample image" width="200" height="200">
+
+
+### X Memo
 
 
 ### Intro
 
-[Pensieve](http://ios.pensieves.co/) is an iOS app that extracts text, links from your screenshots, and makes it searchable and clickable.
+X is an animatd face to face messenger
 
 ---
 
