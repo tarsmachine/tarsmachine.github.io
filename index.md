@@ -10,64 +10,43 @@ layout: default
 
 ### Intro
 
-X is an animatd face to face messenger
+X is an animated face reaction-based messenger app. It shows you the face reaction of your friend in an animated avatar when they read/reply to your message.
+
 
 ---
 
-### Zero Traction
+### Status
 
 - Pre-everything: launch, user, rev, incorporation
-- Status: building iOS private beta (launch: 9/15)
+- Status: building iOS private beta (launch: 11/15)
 
 ---
 
+### Product Preview
 
-### Insights from Building A 'Digital Brain' on Github for 2 Years 
-
-> Some people on Github love to follow the update of my digital memories project (screenshots, pdfs, audios...), and clone it to their account.
+<img src="images/memo.png" alt="sample image" width="400" height="800">
 
 
-I started my '[digital brain](https://github.com/allenleein/knowledge-base)' project on Github 2 years ago. Without any promotion, people there:
 
-1. Love to clone my 'digital brain' and follow the updates
-2. [Thank me](https://imgur.com/a/PiVlCoW) for organizing and sharing my knowledge inputs regularly.
-3. Like the way I search the whole project in terminal
-3. Love my original project idea: 'decentralize my brain to a network of brains’
 
-The staring-forking ratio of my project is as high as the most popular repos on Github.
-  
-> My project: +13%
+**Mission**
 
-> Top 5 repo on Github: +13.8%
+Our mission is to build a social network that empowers people to create real emotional connections with friends in animated identities.
 
----
+**Things Everyone Else Is Missing**
 
-### Insights to Inspiration
+When we share a message with our friends, seeing and feeling the reaction on their face means more than just texts, emojis, stickers. It's human nature to sense these emotions, but it doesn’t exist in any current messenger apps.
 
-These insights inspired me to build a niche social network of digital memories like screenshots, PDFs on top of my current followers.  
+**Why Now**
 
-**Why build a search engine for personal screenshots discovery first?**
+Tech Shift
 
-First, the screenshots in people's phones are the most under-discovered personal memories, also one of the hardest media formats to discover. 
-
-Second, a social app for screenshots without the OCR, Computer Vision features in the search engine will take the user 100x more time to discover and extract the right part of the information. Without these features, It's also hard to reduce the friction of social discovery at scale.
-
-Therefore, to create the initial product momentum, I focus on building an app for personal screenshots discovery first. 
-
----
-
-### An Existing Niche Distribution
-
-Except for my own followers, my project [got recommended](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked) by a popular open-source knowledge community leader on his favorite knowledge wikis list.
-
-The other knowledge wiki owners on the list and their followers are also my targeted early users since they are maintaining or following the digital memory, knowledgebase projects like myself. 
-
-I will leverage the knowledge base communities first, then expand it to a more broad user base. 
+X benefiting from a massive fundamental camera tech shift: Truth depth camera on iOS. The tech presents a new camera-based content creation possibility and empowers us to build it on X.
 
 
 ---
 
-### The Short Master Plan
+### The Master Plan
 
 - Build a search engine that extracts the details from screenshots, and makes it searchable and clickable
 
