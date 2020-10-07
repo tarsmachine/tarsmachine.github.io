@@ -24,7 +24,7 @@ X is an animated face reaction-based messenger app. It shows you the face reacti
 
 ### Product Preview
 
-<img src="images/xdemo.png" alt="sample image" width="600" height="500">
+<img src="images/xdemo.png" alt="sample image" width="600" height="400">
 
 
 
