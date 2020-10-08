@@ -45,6 +45,6 @@ That’s why I want to make a new behavioral paradigm in social apps that make p
 
 
 
-
+##### Know More: [a@xos.social](mailto:axos@social)
 
 
