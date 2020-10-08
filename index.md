@@ -20,7 +20,10 @@ layout: default
 
 X is an animated face reaction-based messenger app. It shows you the face reaction of your friend in an animated avatar when they read/reply to your message.
 
-<img src="images/xdemo.png" alt="sample image" width="600" height="400">
+
+<img src="images/demo1.png" alt="sample image" width="200" height="600">
+
+<img src="images/demo2.png" alt="sample image" width="200" height="600">
 
 ---
 
