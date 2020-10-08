@@ -44,6 +44,7 @@ When we share a message with our friends, seeing and feeling the reaction on the
 That’s why I want to make a new behavioral paradigm in social apps that make people connected emotionally.
 
 
+---
 
 ##### Full Deck: [a@xos.social](mailto:axos@social)
 
