@@ -32,7 +32,7 @@ Our mission is to build a social network that empowers people to create real emo
 
 #### Why Now
 
-<img src="images/why.png" alt="sample image" width="700" height="250">
+<img src="images/why.png" alt="sample image" width="700" height="200">
 
 ---
 
