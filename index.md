@@ -43,7 +43,7 @@ Human connections in the current messaging apps are getting cheaper and cheaper.
 
 ### Why Now
 
-<img src="images/why.png" alt="sample image" width="600" height="400">
+<img src="images/why.png" alt="sample image" width="700" height="300">
 
 
 
