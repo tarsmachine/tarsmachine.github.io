@@ -43,9 +43,7 @@ Human connections in the current messaging apps are getting cheaper and cheaper.
 
 ### Why Now
 
-Tech Shift
-
-Truth depth camera on iOS: The tech presents a new camera-based content creation possibility and empowers us to build it on X.
+<img src="images/why.png" alt="sample image" width="600" height="400">
 
 
 
