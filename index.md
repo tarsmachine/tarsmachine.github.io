@@ -15,8 +15,6 @@ X is an animated face reaction-based messenger app. It shows you the face reacti
 <img src="images/deck.png" alt="sample image" width="450" height="300">
 
 
-<img src="images/demo3.png" alt="sample image" width="280" height="500">
-
 - Status: building iOS private beta (launch: 11/15)
 
 
