@@ -26,7 +26,7 @@ Let’s say your friend Peter receives a message from you on X, when he reads/re
 Once you have enough engagement then we will match new friends with you based on your face reactions to content, message.
 
 
-<img src="images/demo3.png" alt="sample image" width="280" height="500">
+<img src="images/room.png" alt="sample image" width="280" height="500">
 
 
 ---
@@ -42,14 +42,15 @@ Our mission is to build a social network that empowers people to create real emo
 The true depth camera on iOS presents a new camera-based content creation possibility and empowers us to build it on X.
 
 
-<img src="images/room.png" alt="sample image" width="700" height="200">
+<img src="images/why.png" alt="sample image" width="700" height="200">
 
 ---
 
 #### Strategy to Generate Network Effect
 
-The more messages, the users open, the more face reactions the user will create in the background. 
-Emotion as the Content Loop
+The more messages, the users open, the more face reactions the user will create in the background.
+
+**Emotion as the Content Loop**
 
 The reaction to content triggers more content than the content itself.  Every reaction to message/content will trigger more reactions from other people.
 
@@ -65,9 +66,9 @@ We want to create an XMOJI kit: a 3D animated avatar kit with emote features to 
 
 ---
 
-#### Thesis for Making B$ Ads at Scale
+#### Making $ on face-reaction-based Ads
 
-In the long term, X will be one of the most accurate ad platforms for business. Because we have the user data on face reactions to the content.
+X will be one of the most accurate ad platforms for business, because we have the user data on face reactions to the content.
 
 
 
