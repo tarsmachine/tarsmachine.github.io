@@ -42,7 +42,7 @@ Our mission is to build a social network that empowers people to create real emo
 The true depth camera on iOS presents a new camera-based content creation possibility and empowers us to build it on X.
 
 
-<img src="images/why.png" alt="sample image" width="700" height="200">
+<img src="images/room.png" alt="sample image" width="700" height="200">
 
 ---
 
