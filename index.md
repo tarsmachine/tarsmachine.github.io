@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/icon-AppStore.png" alt="sample image" width="200" height="200">
+<img src="images/X-M1.png" alt="sample image" width="200" height="200">
 
 
 ### Define X 
@@ -14,9 +14,11 @@ Our mission is to build a social network that empowers people to create real emo
 ---
 
 
-##### 🎩 We Only Look for Unpopular Talents
+##### You Want to Create Something Unpopular
 
 We're looking for mission-oriented design and engineering generalists. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
+
+---
 
 ### How We Think and Operate
 
