@@ -30,12 +30,12 @@ We don't talk or promote anything related to company valuation.
 
 **We Focus on Input and Fuctions**
 
-**Evaluate**
+Evaluate
 
 - Always optimize what's the highest possible upside first, calculate the resources to make it happen later.
 - Pursue 100% clarity of thinking
 
-**Execute**
+Execute
 
 - Find the secrets that would help us win faster and bigger. EX: solving the picture of the puzzle faster, not putting the pieces together faster.
 - Input + Functions > Output
