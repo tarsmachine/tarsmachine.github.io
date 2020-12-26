@@ -16,7 +16,7 @@ Our mission is to build a social network that empowers people to create real emo
 ---
 
 
-##### Unpopular People Create Unpopular Product
+### Unpopular People Create Unpopular Product
 
 We're looking for design and engineering generalists who have unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
