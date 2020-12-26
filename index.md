@@ -11,6 +11,8 @@ layout: default
 
 Our mission is to build a social network that empowers people to create real emotional connections with friends in animated identities.
 
+<img src="images/screen.png" alt="sample image" width="280" height="500">
+
 ---
 
 
