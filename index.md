@@ -42,7 +42,7 @@ Execute
 - Find the secrets that would help us win faster and bigger. EX: solving the picture of the puzzle faster, not putting the pieces together faster.
 - Input + Functions > Output
 
-**We Want to Change the Game**
+#### We Want to Change the Game
 
 Most product and distribution roadmaps are incremental. Do x, then y, then z, each of which has a linear increase in the value of the product or company. In our way, we get out of that way of thinking and ask what sorts of strategies, adoptions, or customers would completely change the game for the company.
 
@@ -54,6 +54,6 @@ That’s why we build MDP, not MVP. We bend the future, not discover It.
 
 ---
 
-##### Feel free to reach out anytime: [allen@readyplayerx.com](mailto:allen@readyplayerx.com)
+*Feel free to reach out anytime:* [allen@readyplayerx.com](mailto:allen@readyplayerx.com)
 
 
