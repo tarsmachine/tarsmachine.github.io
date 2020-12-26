@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/icon-AppStore.png" alt="sample image" width="205" height="200">
+<img src="images/icon-AppStore.png" alt="sample image" width="185" height="180">
 
 
 ### Define X 
