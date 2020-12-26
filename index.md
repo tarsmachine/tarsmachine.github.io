@@ -54,6 +54,6 @@ That’s why we build MDP, not MVP. We bend the future, not discover It.
 
 ---
 
-*Feel free to reach out anytime:* [allen@readyplayerx.com](mailto:allen@readyplayerx.com)
+*Feel free to reach out anytime: [allen@readyplayerx.com](mailto:allen@readyplayerx.com)*
 
 
