@@ -5,7 +5,7 @@ layout: default
 <img src="images/X-M1.png" alt="sample image" width="205" height="200">
 
 
-### Define X 
+### Define X Tgh
 
 #### Mission
 
