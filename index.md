@@ -18,7 +18,7 @@ Our mission is to build a social network that empowers people to create real emo
 
 #### Unpopular People Create Unpopular Product
 
-We're looking for design and engineering generalists who have unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
+We're looking for design and engineering generalists who love unpopular thinking models. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
 ---
 
@@ -26,9 +26,9 @@ We're looking for design and engineering generalists who have unpopular thinking
 
 **Exponential Value, Not Valuation**
 
-The question we ask ourselves on every product decision is "Would this lead to a 10X-100X increase in the value of our product or business" Then we focus on it.
+The question we ask ourselves on every product decision is 'Would this lead to a 10X-100X increase in the value of our product or business' Then we focus on it.
 
-We don't talk or promote anything related to company valuation.
+We don't talk or promote anything related to the company valuation, funding news.
 
 **We Focus on Input and Fuctions**
 
