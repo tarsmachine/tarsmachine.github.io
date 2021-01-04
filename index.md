@@ -13,12 +13,6 @@ Our mission is to build a social network that empowers people to create real emo
 
 <img src="images/screen.png" alt="sample image" width="400" height="500">
 
----
-
-
-#### Unpopular People Create Unpopular Product
-
-We're looking for design and engineering generalists who love unpopular thinking models. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
 ---
 
@@ -30,17 +24,17 @@ The question we ask ourselves on every product decision is 'Would this lead to a
 
 We don't talk or promote anything related to the company valuation, funding news.
 
-**We Focus on Input and Fuctions**
+**Focus on the Upside**
 
 Evaluate
 
-- Always optimize what's the highest possible upside first, calculate the resources to make it happen later.
-- Pursue 100% clarity of thinking
+- Pursue the highest upside first, calculate the resources to make it happen later.
+- Pursue 100% clarity of thinking.
 
 Execute
 
-- Find the secrets that would help us win faster and bigger. EX: solving the picture of the puzzle faster, not putting the pieces together faster.
-- Input + Functions > Output
+- Find the secrets that would help us win faster and bigger. (solving the picture of the puzzle faster, not putting the pieces together faster)
+
 
 #### We Want to Change the Game
 
@@ -51,6 +45,13 @@ For example, in an environment where competition is more intense than ever, succ
 Growth records are being beaten every single year. The trend is set to continue and the need for entrepreneurs to find growth from the outset is more important and valuable than ever. Ultimately it’s a “user experience and liquidity” problem, and the goal is to make the product experience so good that enable us to scale without spending a fortune on sales and marketing. Taking advantage of a market insight or new platform before an incumbent is able to react.
 
 That’s why we build MDP, not MVP. We bend the future, not discover It.
+
+---
+
+
+#### Unpopular Minds Create Unpopular Ideas
+
+We're looking for design and engineering generalists who are obsessed with unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
 ---
 
