@@ -5,11 +5,11 @@ layout: default
 <img src="images/icon-AppStore.png" alt="sample image" width="185" height="180">
 
 
-### Define X 
+#### X 
 
 #### Mission
 
-Our mission is to build a social network that empowers people to create real emotional connections with friends in animated identities.
+Our mission is to build a virtual network that empowers people to create real emotional connections with friends in automated animated identities. Like Ready Player One with AI.
 
 <img src="images/screen.png" alt="sample image" width="400" height="500">
 
