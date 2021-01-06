@@ -9,7 +9,7 @@ layout: default
 
 #### Mission
 
-Our mission is to build a virtual network that empowers people to create real emotional connections with friends in automated animated identities. Like Ready Player One with AI.
+Our mission is to build a virtual network that empowers people to create real emotional connections with friends in automated animated identities. Like Ready Player One meets AI.
 
 <img src="images/screen.png" alt="sample image" width="400" height="500">
 
