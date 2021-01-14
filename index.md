@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/X-M1.png" alt="sample image" width="185" height="180">
+<img src="images/X-M1.png" alt="sample image" width="180" height="180">
 
 
 ### Define X 
