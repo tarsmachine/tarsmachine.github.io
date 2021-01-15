@@ -11,8 +11,6 @@ layout: default
 
 Our mission is to build a virtual network that empowers people to create real emotional connections with friends in their automated animated identities. Like Ready Player One meets AI.
 
-<img src="images/screen.png" alt="sample image" width="400" height="500">
-
 ---
 
 ### How We Think and Operate
