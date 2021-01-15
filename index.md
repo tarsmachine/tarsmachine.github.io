@@ -17,7 +17,7 @@ Our mission is to build a virtual network that empowers people to create real em
 
 **Exponential Value, Not Valuation**
 
-The question we ask ourselves on every product decision is ‘Would this lead to a 10X-100X increase in the value of our product or business’ Then we focus on it.
+The question we ask ourselves on every product decision is ‘Would this lead to a 10X-100X increase in the value of our product’ Then we focus on it.
 
 We don’t talk or promote anything related to the company valuation, funding news.
 
