@@ -5,13 +5,6 @@ layout: default
 <img src="images/X-M1.png" alt="sample image" width="190" height="180">
 
 
-### Define X 
-
-#### Mission
-
-Our mission is to build a virtual network that empowers people to create real emotional connections with friends in their automated animated identities. Like Ready Player One meets AI.
-
----
 
 ### How We Think and Operate
 
