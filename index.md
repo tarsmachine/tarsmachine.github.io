@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/4icon.jpg" alt="sample image" width="190" height="180">
+<img src="images/X-M1.png" alt="sample image" width="190" height="180">
 
 
 
