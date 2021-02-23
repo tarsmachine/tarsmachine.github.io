@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/icon-AppStore.png" alt="sample image" width="190" height="180">
+<img src="images/icon-AppStore.png" alt="sample image" width="180" height="180">
 
 
 
