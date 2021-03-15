@@ -2,17 +2,15 @@
 layout: default
 ---
 
-<img src="images/gargantua.png" alt="sample image" width="180" height="180">
+<img src="images/gargantua.png" alt="sample image" width="200" height="200">
 
 
 
-### How We Think and Operate at Gargantua
+### How We Think and Operate
 
 **Exponential Value, Not Valuation**
 
 The question we ask ourselves on every product decision is ‘Would this lead to a 10X-100X increase in the value of our product’ Then we focus on it.
-
-We don’t talk or promote anything related to the company valuation, funding news.
 
 **Evaluate and Execute**
 
@@ -20,7 +18,10 @@ We don’t talk or promote anything related to the company valuation, funding ne
 - Pursue 100% clarity of thinking.
 - Find the secrets that would help us win faster and bigger. (solving the picture of the puzzle faster, not putting the pieces together faster)
 
-### We Want to Change the Game Completely
+We don’t talk or promote anything related to the company valuation, funding news.
+
+
+### We Aim to Change the Game Completely
 
 Most product and distribution roadmaps are incremental. Do x, then y, then z, each of which has a linear increase in the value of the product or company. In our way, we get out of that way of thinking and ask what sorts of strategies, adoptions, or designs would completely change the game for the company.
 
@@ -28,7 +29,7 @@ For example, in an environment where competition is more intense than ever, succ
 
 Growth records are being beaten every single year. The trend is set to continue and the need for entrepreneurs to find growth from the outset is more important and valuable than ever. Ultimately it’s a “user experience and liquidity” problem, and the goal is to make the product experience so good that enable us to scale without spending a fortune on sales and marketing. Taking advantage of a market insight or new platform before an incumbent is able to react.
 
-That’s why we deliver MDP (Most Desirable Product), not MVP. We bend the future, not discover It.
+That’s why we deliver MDP (Most Desirable Product), not MVP. [We bend the future, not discover It.](http://www.ab0ve.co/2040/06/11/games.html)
 
 
 #### Unpopular Minds Create Unpopular Ideas
