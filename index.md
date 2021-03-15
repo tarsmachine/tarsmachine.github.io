@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/Gargantua.png" alt="sample image" width="180" height="180">
+<img src="images/gargantua.png" alt="sample image" width="180" height="180">
 
 
 
