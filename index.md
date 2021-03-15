@@ -37,6 +37,8 @@ We're looking for design and engineering generalists who are obsessed with unpop
 
 ---
 
+<center><iframe src="https://gargantua.substack.com/embed" width="450" height="300" style="border:1px solid #EEE; background:black;" frameborder="0" scrolling="no"></iframe></center>
+
 *Feel free to reach out anytime: [allen@readyplayerx.com](mailto:allen@readyplayerx.com)*
 
 
