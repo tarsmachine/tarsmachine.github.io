@@ -6,7 +6,7 @@ layout: default
 
 
 
-### How We Think and Operate
+### How We Think and Operate at Gargantua
 
 **Exponential Value, Not Valuation**
 
