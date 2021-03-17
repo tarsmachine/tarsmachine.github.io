@@ -36,7 +36,7 @@ That’s why we deliver MDP (Most Desirable Product), not MVP. [We bend the futu
 
 We're looking for design and engineering generalists who are obsessed with unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
-Feel free to [reach out]((mailto:allen@readyplayerx.com)) anytime.
+Feel free to [reach out](mailto:allen@readyplayerx.com) anytime.
 
 
 
