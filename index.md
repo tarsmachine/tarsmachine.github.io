@@ -32,11 +32,11 @@ Growth records are being beaten every single year. The trend is set to continue 
 That’s why we deliver MDP (Most Desirable Product), not MVP. [We bend the future, not discover It.](http://www.ab0ve.co/2040/06/11/games.html)
 
 
-#### Unpopular Minds Create Unpopular Ideas
+### Unpopular Minds Create Unpopular Ideas
 
 We're looking for design and engineering generalists who are obsessed with unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
-Feel free to reach out anytime: [allen@readyplayerx.com](mailto:allen@readyplayerx.com)
+Feel free to [reach out]((mailto:allen@readyplayerx.com)) anytime.
 
 
 
