@@ -21,6 +21,10 @@ The question we ask ourselves on every product decision is ‘Would this lead to
 We don’t talk or promote anything related to the company valuation, funding news.
 
 
+
+<img src="images/tars-sub.png" alt="sample image" width="400" height="400">
+
+
 ### We Aim to Change the Game Completely
 
 Most product and distribution roadmaps are incremental. Do x, then y, then z, each of which has a linear increase in the value of the product or company. In our way, we get out of that way of thinking and ask what sorts of strategies, adoptions, or designs would completely change the game for the company.
@@ -39,7 +43,6 @@ We're looking for design and engineering generalists who are obsessed with unpop
 Feel free to [reach out](mailto:allen@readyplayerx.com) anytime.
 
 
-<img src="images/tars-sub.png" alt="sample image" width="250" height="250">
 
 
 
