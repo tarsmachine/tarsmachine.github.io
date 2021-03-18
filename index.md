@@ -39,7 +39,7 @@ We're looking for design and engineering generalists who are obsessed with unpop
 Feel free to [reach out](mailto:allen@readyplayerx.com) anytime.
 
 
-<img src="images/tars-sub.png" alt="sample image" width="400" height="400">
+<img src="images/tars-sub.png" alt="sample image" width="250" height="250">
 
 
 
