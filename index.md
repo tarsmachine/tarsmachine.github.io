@@ -38,7 +38,7 @@ That’s why we deliver MDP (Most Desirable Product), not MVP. [We bend the futu
 
 ### Unpopular Minds Create Unpopular Ideas
 
-[We're looking for design and engineering generalists]((mailto:allen@readyplayerx.com) ) who are obsessed with unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
+[We're looking for design and engineering generalists](mailto:allen@readyplayerx.com) who are obsessed with unpopular thinking. You will be critical in setting the product vision and defining the team culture. We’re reserving a large chunk of equity so that our team feels like a true owner and co-creator of this company.
 
 
 
