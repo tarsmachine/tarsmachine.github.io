@@ -22,7 +22,7 @@ We don’t talk or promote anything related to the company valuation, funding ne
 
 
 
-<img src="images/tars-sub.png" alt="sample image" width="400" height="400">
+<img src="images/tars-sub.png" alt="sample image" width="250" height="250">
 
 
 ### We Aim to Change the Game Completely
