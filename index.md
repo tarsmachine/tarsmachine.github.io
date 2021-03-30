@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/Gargantua.png" alt="sample image" width="250" height="250">
+<img src="images/Gargantua.png" alt="sample image" width="200" height="200">
 
 
 
@@ -19,8 +19,6 @@ The question we ask ourselves on every product decision is ‘Would this lead to
 - Pursue 100% clarity of thinking.
 - Find the secrets that would help us win faster and bigger. (solving the picture of the puzzle faster, not putting the pieces together faster)
 
-
-<img src="images/tars-sub.png" alt="sample image" width="350" height="350">
 
 
 ### We Aim to Change the Game Completely
