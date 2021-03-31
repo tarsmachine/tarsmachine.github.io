@@ -10,7 +10,7 @@ layout: default
 
 **Exponential Value, Not Valuation**
 
-The question we ask ourselves on every product decision is ‘Would this lead to a 10X-100X increase in the value of our product’ Then we focus on it. We don’t talk or promote anything related to the company valuation, funding news.
+The question we ask ourselves every day is ‘Would this lead to a 10X-100X increase in the value of our product’ Then we focus on it. We would never talk or promote anything related to the company valuation, funding news.
 
 
 **Evaluate and Execute**
