@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/tars-50E3C2.png" alt="sample image" width="200" height="200">
+<img src="images/tars-b.png" alt="sample image" width="300" height="300">
 
 
 
