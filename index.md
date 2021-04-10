@@ -6,7 +6,7 @@ layout: default
 
 ### TARS: A Network of Brains
 
-Inspired by Ghost in the Shell (攻殻機動隊 シェルのゴースト), we believe the future of human minds is to decentralize ourselves to a composable knowledge network.
+The future of human minds is to decentralize ourselves to a composable knowledge network.
 
 
 
