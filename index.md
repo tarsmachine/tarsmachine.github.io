@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/gax.gif" alt="sample image" width="460" height="250">
+<img src="images/gax.gif" alt="sample image" width="560" height="350">
 
 ### TARS: A Network of Brains
 
