@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/gax.gif" alt="sample image" width="560" height="350">
+<img src="images/gax.gif" alt="sample image" width="600" height="350">
 
 ### What's Next?
 
