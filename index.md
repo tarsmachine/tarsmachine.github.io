@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/tars-b.png" alt="sample image" width="300" height="300">
+<img src="images/Rizon.png" alt="sample image" width="300" height="300">
 
 ### -.-. --- -- .. -. --. / ..--- ----- ..--- .----
 
