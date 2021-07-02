@@ -1,6 +1,6 @@
 # Site settings
-title: TARS
-tag_text: TARS
+title: Sorting Memo
+tag_text: Memo
 description: Vision and Progress
 url: "http://127.0.0.1:4000"
 baseurl: ""
