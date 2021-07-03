@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="images/43039A.png" alt="sample image" width="300" height="300">
+<img src="images/43039A.png" alt="sample image" width="200" height="200">
 
 ### Memo
 
