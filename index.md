@@ -8,6 +8,12 @@ layout: default
 
 Sorting: Fastest Search Engine for Personal Digital Memories
 
+⚡️ Privacy Firt: All data processed on device. Nothing is sent to any server
+
+⚡️ Fastest Ever: Best performant computer vision technology
+
+⚡️ Powered by Apple M1, A14
+
 
 
 
