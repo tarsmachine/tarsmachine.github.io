@@ -4,9 +4,9 @@ layout: default
 
 <img src="images/43039A.png" alt="sample image" width="200" height="200">
 
-### Memo
+### Sorting Memo
 
-Sorting: Fastest Search Engine for Personal Digital Memories
+Intro: Fastest AI-Powered Search Engine for Personal Screenshots, Videos
 
 ⚡️ Privacy Firt: All data processed on device. Nothing is sent to any server
 
