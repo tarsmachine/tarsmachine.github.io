@@ -6,14 +6,14 @@ layout: default
 
 ### Memo
 
-Intro: Fastest Search Engine for Finding the Deepest Details Inside Files like Screenshots, Videos, PDFs, ePubs
+So: Fastest Search Engine for Finding the Details Inside Files like Screenshots, Videos, PDFs, ePubs on macOS
 
 
 ⚡️ Privacy Firt: All data processed on device. Nothing is sent to any server
 
 ⚡️ Fastest Ever: Best performant computer vision technology
 
-⚡️ Powered by Apple M1, A14
+⚡️ Powered by Apple M1
 
 
 
