@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img src="images/43039A.png" alt="sample image" width="200" height="200">
+<img src="images/so-mac.png" alt="sample image" width="200" height="200">
 
-### Sorting Memo
+### Memo
 
 Intro: Fastest AI-Powered Search Engine for Personal Screenshots, Videos
 
