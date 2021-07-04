@@ -6,7 +6,8 @@ layout: default
 
 ### Memo
 
-Intro: Fastest AI-Powered Search Engine for Personal Screenshots, Videos
+Intro: Fastest Search Engine for Finding the Deepest Details Inside Files like Screenshots, Videos, PDFs, ePubs
+
 
 ⚡️ Privacy Firt: All data processed on device. Nothing is sent to any server
 
